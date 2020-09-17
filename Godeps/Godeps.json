@@ -36,7 +36,7 @@
 		},
 		{
 			"ImportPath": "github.com/go-logr/logr",
-			"Rev": "v0.1.0"
+			"Rev": "v0.2.0"
 		},
 		{
 			"ImportPath": "github.com/go-openapi/jsonpointer",
@@ -76,7 +76,7 @@
 		},
 		{
 			"ImportPath": "github.com/json-iterator/go",
-			"Rev": "v1.1.8"
+			"Rev": "v1.1.10"
 		},
 		{
 			"ImportPath": "github.com/kisielk/errcheck",
@@ -139,28 +139,36 @@
 			"Rev": "v1.4.0"
 		},
 		{
+			"ImportPath": "github.com/yuin/goldmark",
+			"Rev": "v1.1.27"
+		},
+		{
 			"ImportPath": "golang.org/x/crypto",
-			"Rev": "5c40567a22f8"
+			"Rev": "75b288015ac9"
+		},
+		{
+			"ImportPath": "golang.org/x/mod",
+			"Rev": "v0.3.0"
 		},
 		{
 			"ImportPath": "golang.org/x/net",
-			"Rev": "d3edc9973b7e"
+			"Rev": "ab3426394381"
 		},
 		{
 			"ImportPath": "golang.org/x/sync",
-			"Rev": "112230192c58"
+			"Rev": "cd5d95a43a6e"
 		},
 		{
 			"ImportPath": "golang.org/x/sys",
-			"Rev": "fde4db37ae7a"
+			"Rev": "85ca7c5b95cd"
 		},
 		{
 			"ImportPath": "golang.org/x/text",
-			"Rev": "v0.3.2"
+			"Rev": "v0.3.3"
 		},
 		{
 			"ImportPath": "golang.org/x/tools",
-			"Rev": "65e3620a7ae7"
+			"Rev": "c1934b75d054"
 		},
 		{
 			"ImportPath": "golang.org/x/xerrors",
@@ -176,19 +184,19 @@
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
-			"Rev": "e0e292d8aa12"
+			"Rev": "8167cfdcfc14"
 		},
 		{
-			"ImportPath": "k8s.io/klog",
-			"Rev": "v1.0.0"
+			"ImportPath": "k8s.io/klog/v2",
+			"Rev": "v2.2.0"
 		},
 		{
 			"ImportPath": "k8s.io/kube-openapi",
-			"Rev": "e1beb1bd0f35"
+			"Rev": "6aeccd4b50c6"
 		},
 		{
-			"ImportPath": "sigs.k8s.io/structured-merge-diff/v3",
-			"Rev": "67a7b8c61874"
+			"ImportPath": "sigs.k8s.io/structured-merge-diff/v4",
+			"Rev": "v4.0.1"
 		},
 		{
 			"ImportPath": "sigs.k8s.io/yaml",
